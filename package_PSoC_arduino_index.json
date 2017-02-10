@@ -49,7 +49,6 @@
               "name": "CMSIS",
               "version": "4.5.0"
             }
-			
             
           ]
         }
@@ -232,6 +231,11 @@
           ]
         },
         {
+<<<<<<< HEAD
+=======
+          
+        {
+>>>>>>> origin/master
           "name": "CMSIS",
           "version": "4.5.0",
           "systems":
