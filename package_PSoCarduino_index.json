@@ -17,18 +17,12 @@
           "help": {
             "online": ""
           },
-<<<<<<< HEAD
+
           "url": "https://github.com/JOBA1122/PSoC-Arduino/archive/master.tar.gz",
           "archiveFileName": "PSoCArduinorepo",
           "checksum": "SHA-256:37018d21578c2a200601d65157473d33d4a90bcf7551002e77ea801191da61a2",
-          "size": "3665091"
-=======
-          "url": "https://github.com/SpenceKonde/ATTinyCore/archive/v1.0.4.tar.gz",
-          "archiveFileName": "ATTinyCore-1.0.4.tar.gz",
-          "checksum": "SHA-256:c647ad9efebbb44ce50153c0598b8152b6df381d0a77333e3f75c9afddad33bf",
-          "size": "249576"
-          ,
->>>>>>> origin/master
+          "size": "3779420"
+
           "boards": [
             {"name": "PSarduinoC"}
            
