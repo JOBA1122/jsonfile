@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/JOBA1122/PSoC-Arduino/archive/master.zip",
           "archiveFileName": "PSoCArduinorepo",
-          "checksum": "MD5:0B1C998DC69D3C597F0E41154DE63598",
-          "size": "17795309",
+          "checksum": "SHA-256:d41945fdf4e39683bcd34aec352882ed67344c1d0ba83a1eefdbe5073b5953d1",
+          "size": "4380292",
           "boards": [
             {"name": "PSarduinoC"}
            
