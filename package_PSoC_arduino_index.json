@@ -179,19 +179,9 @@
 			
           ]
         },
-        {
-          "name": "openocd",
-          "version": "0.9.0-arduino",
-          "systems": [
-            {
-              "host": "arm-linux-gnueabihf",
-              "url": "http://downloads.arduino.cc/tools/OpenOCD-0.9.0-arduino-arm-linux-gnueabihf.tar.bz2",
-              "archiveFileName": "OpenOCD-0.9.0-dev-arduino-arm-linux-gnueabihf.tar.bz2",
-              "checksum": "SHA-256:a84e7c4cba853f2c937d77286f8a0ca317447d3873e51cbd2a2d41424e044a18",
-              "size": "1402283"
-            },
+      	{
 			"name": "openocd",
-            "version": "1.0.0",
+            "version": "0.9.0-arduino",
             "systems": [
             {
               "host": "arm-linux-gnueabihf",
@@ -230,12 +220,11 @@
             }
           ]
         },
-        {
-<<<<<<< HEAD
-=======
+        
+
           
         {
->>>>>>> origin/master
+
           "name": "CMSIS",
           "version": "4.5.0",
           "systems":
