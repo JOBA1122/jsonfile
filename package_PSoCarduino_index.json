@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "PSoC-Arduino",
+      "name": "PSoCArduino",
       "maintainer": "John Bayron",
       "websiteURL": "https://github.com/JOBA1122/PSoC-Arduino",
       "email": "",
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "PSoC-Arduino",
+          "name": "PSoCArduino",
           "architecture": "ARM",
           "version": "1.0.0",
           "category": "Contributed",
