@@ -47,6 +47,11 @@
               "packager": "PSoCArduino",
               "name": "CMSIS",
               "version": "4.5.0"
+            },
+			 {
+              "packager": "PSoCArduino",
+              "name": "util",
+              "version": "1.0.0"
             }
             
           ]
@@ -175,12 +180,23 @@
               "checksum": "SHA-256:09e46d0af61b2189caaac0bc6d4dd15cb22c167fdedc56ec98602dd5f10e68e0",
               "size": "27382"
             }
+			
           ]
         },
        {
           "name": "openocd",
           "version": "0.9.0-arduino",
           "systems": [
+            {
+              "host": "arm-linux-gnueabihf",
+              "url": "http://downloads.arduino.cc/tools/OpenOCD-0.9.0-arduino-arm-linux-gnueabihf.tar.bz2",
+              "archiveFileName": "OpenOCD-0.9.0-dev-arduino-arm-linux-gnueabihf.tar.bz2",
+              "checksum": "SHA-256:a84e7c4cba853f2c937d77286f8a0ca317447d3873e51cbd2a2d41424e044a18",
+              "size": "1402283"
+            },
+			"name": "openocd",
+            "version": "1.0.0",
+            "systems": [
             {
               "host": "arm-linux-gnueabihf",
               "url": "http://downloads.arduino.cc/tools/OpenOCD-0.9.0-arduino-arm-linux-gnueabihf.tar.bz2",
@@ -218,8 +234,20 @@
             }
           ]
         },
-        
-       {
+        {
+          "name": "util",
+          "version": "1.0.0",
+          "systems": [
+            {
+              "host": "local",
+              "url": "http://downloads.arduino.cc/tools/drivers-arduino-windows-1.6.9.zip",
+              "archiveFileName": "util.tar.bz2",
+              "checksum": "SHA-256:9B1BE4C07C486F8AE557F982E56393ABBDE147973ADCDC295FFC616C1D9989C7",
+              "size": "99045"
+            }
+          ]
+        },
+        {
           "name": "CMSIS",
           "version": "4.5.0",
           "systems":
