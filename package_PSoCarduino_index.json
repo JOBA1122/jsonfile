@@ -20,15 +20,9 @@
 
           "url": "https://github.com/JOBA1122/jsonfile/raw/master/psoc-arduino-master%20(2)%20(1).tar.gz",
           "archiveFileName": "PSoCArduinorepo",
-<<<<<<< HEAD
-          "checksum": "SHA-256:37018d21578c2a200601d65157473d33d4a90bcf7551002e77ea801191da61a2",
-          "size": "3779420",
-		  
-=======
           "checksum": "SHA-256:7fc53bc944aad6153d58cab7b76eec2d59df3445720adca3188d517ddc43a9bd",
-          "size": "3779420"
+          "size": "3779420",
 
->>>>>>> origin/master
           "boards": [
             {"name": "PSarduinoC"}
            
