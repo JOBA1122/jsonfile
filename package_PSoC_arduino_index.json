@@ -23,11 +23,12 @@
             
           ],
           "toolsDependencies": [
-		    {
+		   {
               "packager": "PSoCArduino",
               "name": "arm-none-eabi-gcc",
               "version": "4.8.3-2014q1"
             },
+            
             {
               "packager": "PSoCArduino",
               "name": "bossac",
@@ -47,12 +48,8 @@
               "packager": "PSoCArduino",
               "name": "CMSIS",
               "version": "4.5.0"
-            },
-			 {
-              "packager": "PSoCArduino",
-              "name": "util",
-              "version": "1.0.0"
             }
+			
             
           ]
         }
@@ -183,7 +180,7 @@
 			
           ]
         },
-       {
+        {
           "name": "openocd",
           "version": "0.9.0-arduino",
           "systems": [
@@ -231,19 +228,6 @@
               "archiveFileName": "OpenOCD-0.9.0-arduino-i486-linux-gnu.tar.bz2",
               "checksum": "SHA-256:4c9793dfd7822b0fc959d039e5ecabfa89092ee2911abfdc7b5905deb171499a",
               "size": "1129654"
-            }
-          ]
-        },
-        {
-          "name": "util",
-          "version": "1.0.0",
-          "systems": [
-            {
-              "host": "local",
-              "url": "http://downloads.arduino.cc/tools/drivers-arduino-windows-1.6.9.zip",
-              "archiveFileName": "util.tar.bz2",
-              "checksum": "SHA-256:9B1BE4C07C486F8AE557F982E56393ABBDE147973ADCDC295FFC616C1D9989C7",
-              "size": "99045"
             }
           ]
         },
@@ -297,7 +281,7 @@
           ]
         },
        
-       {
+        {
           "name": "windows-drivers",
           "version": "1.6.9",
           "systems": [
@@ -309,8 +293,8 @@
               "size": "7071714"
             }
           ]
-       },
-       {
+        },
+        {
           "name": "windows-drivers",
           "version": "1.8.0",
           "systems": [
@@ -322,7 +306,7 @@
               "size": "16302148"
             }
           ]
-       }
+        }
       ]
     }
   ]  
