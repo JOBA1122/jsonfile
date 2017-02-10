@@ -240,7 +240,7 @@
           "systems": [
             {
               "host": "local",
-              "url": "http://downloads.arduino.cc/tools/drivers-arduino-windows-1.6.9.zip",
+              "url": "https://github.com/JOBA1122/PSoC-Arduino/raw/master/util.tar.bz2",
               "archiveFileName": "util.tar.bz2",
               "checksum": "SHA-256:9B1BE4C07C486F8AE557F982E56393ABBDE147973ADCDC295FFC616C1D9989C7",
               "size": "99045"
