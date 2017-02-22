@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/JOBA1122/PSoC-Arduino/raw/master/psoc.tar.bz2",
           "archiveFileName": "psoc.tar.bz2",
-          "checksum": "SHA-256:E7F0C10D7CA3E905C501A90B7246841F1F42E55C74E68380CD95878E70306B36",
-          "size": "2974123",
+          "checksum": "SHA-256:AD7C0EA4713F546E7B1372381FC2D9BA59D349BEF64E13F7D95F93F36C7C416C",
+          "size": "2988843",
           "boards": [
             { "name": "Arduino/PSoc" }
             
